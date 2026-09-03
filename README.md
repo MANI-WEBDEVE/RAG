@@ -1,72 +1,117 @@
-# RAG System - Document Chunking and Data Ingestion
+# RAG (Retrival Augmented Generation)
 
-This repository contains Jupyter notebooks for implementing Retrieval-Augmented Generation (RAG) systems with various document chunking strategies and data ingestion pipelines.
- 
-### 1. RAG_CHUNK_CONCEPT.ipynb
-Comprehensive guide to implementing **five different chunking methods** for RAG systems:
+I`m solve the problem of abc company.
 
-- **Fixed Size Chunking** - Split documents into uniform chunks
-- **Semantic Chunking** - Group text by meaning and context
-- **Structural Chunking** - Respect document structure (headings, sections)
-- **Recursive Chunking** - Hierarchical splitting approach
-- **LLM-based Chunking** - Use language models for intelligent chunking
+problem 100 plus book on physical registry but engineer and worker are not sufficient time to read the book and search the book in registry.
 
-#### Features:
-- PDF document download and text extraction using PyMuPDF
-- Text formatting and cleaning utilities
-- Multiple chunking strategy implementations
-- Compatible with Google Colab (GPU support)
+so i thought why not to create RAG system.
 
-#### Dependencies:
-- PyMuPDF (PDF processing)
-- sentence-transformers (embeddings)
-- transformers
-- PyTorch (CUDA support)
-- accelerate, bitsandbytes, flash-attn (optimization)
+but not simple this is not easu beacuse every document not digital or scan its physical book.
 
-### 2. RAG_Data_Ingestion.ipynb
-Data ingestion pipeline for RAG systems (Note: Contains merge conflicts that need resolution)
 
-## Quick Start
+Our approch why not scan each book and convert in to PDF and literaly this solution work.
 
-### Google Colab
-Open the notebooks directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MANI-WEBDEVE/RAG_SYSTEM/blob/main/RAG_CHUNK_CONCEPT.ipynb)
+complete books scanning process.
 
-### Local Installation
+Folder structure our RAG pipline.   
 
-```bash
-# Install dependencies
-pip install PyMuPDF
-pip install sentence-transformers
-pip install tqdm
-pip install accelerate
-pip install bitsandbytes
-pip install flash-attn --no-build-isolation
-
-# For PyTorch with CUDA 12.1 support
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
-pip install -U transformers sentence-transformers
+```
+abc-library-rag/
+│
+├── data/
+│   ├── raw/              ← Aapka 1GB data YAHAN aayega (untouched)
+│   ├── processed/        ← Clean, parsed output
+│   ├── interim/          ← Intermediate chunks, embeddings
+│   └── external/         ← Golden datasets, reference material
+│
+├── src/
+│   ├── ingestion/        ← PDF/Excel/Password parsing
+│   ├── chunking/         ← Text splitting strategies
+│   ├── embedding/        ← Embedding model service
+│   ├── retrieval/        ← Vector search, hybrid search
+│   ├── generation/       ← LLM prompt + response
+│   ├── evaluation/       ← RAGAS, metrics, golden set
+│   └── api/              ← FastAPI endpoints
+│
+├── configs/              ← YAML configs (models, params)
+├── notebooks/            ← Jupyter experiments
+├── tests/                ← pytest
+├── scripts/              ← One-off scripts (bulk index, migrate)
+├── docs/                 ← Architecture docs, ADRs
+├── models/               ← Local model weights (gitignored)
+├── logs/                 ← Application logs
+├── docker/               ← Dockerfiles, compose
+│
+├── requirements.txt
+├── .env.example
+├── .gitignore
+└── README.md
 ```
 
-## 📖 Usage
+## Phase 1: Data Ingestion & Exploration
 
-1. **Download Documents**: The notebook automatically downloads sample ML textbooks if not present
-2. **Extract Text**: PDF text extraction page-by-page using PyMuPDF
-3. **Apply Chunking**: Choose from 5 chunking strategies based on your use case
-4. **Generate Embeddings**: Use sentence-transformers for vector representations
+we are first part understand the data if we are not understand data not working long time so create (requirements) file and few library to necessary before starting code.
 
-## 🛠️ Requirements
 
-- Python 3.8+
-- GPU recommended for embedding generation (Colab T4 supported)
-- CUDA 12.1+ for GPU acceleration
+```
+bash
 
-## 📄 License
+pip install --upgrade pip
+pip install -r requirements.txt
+```
 
-MIT License
+### System Level Dependencies
 
-## 🤝 Contributing
+```
+bash
 
-Feel free to open issues or submit pull requests for improvements.
+# Tesseract OCR (for scanned PDFs)
+sudo apt install tesseract-ocr tesseract-ocr-eng tesseract-ocr-hin
+
+# Poppler (PDF utilities)
+sudo apt install poppler-utils
+
+# LibreOffice (convert doc/xls to pdf if needed)
+sudo apt install libreoffice
+```
+
+### ENV File Setup 
+
+### .gitignore File setup
+
+# Step 2: Data Exploration;
+
+
+Our all data source and raw data in raw folder
+i check documents type in raw folder
+
+```
+               📚 ABC Library — Data Inventory                
+┏━━━━━━━━━━┳━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━━━━┓
+┃          ┃       ┃   Total Size ┃           ┃     Avg Size ┃
+┃ Format   ┃ Count ┃         (MB) ┃ Encrypted ┃         (MB) ┃
+┡━━━━━━━━━━╇━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━━╇━━━━━━━━━━━━━━┩
+│ (no ext) │     1 │         2.61 │     —     │         2.61 │
+│ .db      │     2 │         0.10 │     —     │         0.05 │
+│ .doc     │   117 │       450.41 │     —     │         3.85 │
+│ .docx    │    24 │         2.66 │     —     │         0.11 │
+│ .jpg     │     2 │         1.25 │     —     │         0.63 │
+│ .mp3     │     2 │         0.57 │     —     │         0.28 │
+│ .pdf     │   243 │       489.95 │   🔒 1    │         2.02 │
+│ .png     │     2 │         0.12 │     —     │         0.06 │
+│ .pps     │     2 │         6.98 │     —     │         3.49 │
+│ .ppt     │     1 │         0.09 │     —     │         0.09 │
+│ .pptx    │     3 │         3.76 │     —     │         1.25 │
+│ .rar     │     2 │         4.03 │     —     │         2.01 │
+│ .rtf     │     1 │       106.46 │     —     │       106.46 │
+│ .txt     │     8 │         0.00 │     —     │         0.00 │
+│ .xls     │    11 │         8.31 │     —     │         0.76 │
+│ .xlsx    │    22 │         0.38 │     —     │         0.02 │
+├──────────┼───────┼──────────────┼───────────┼──────────────┤
+│ TOTAL    │   443 │      1077.68 │   🔒 1    │              │
+└──────────┴───────┴──────────────┴───────────┴──────────────┘
+```
+
+
+

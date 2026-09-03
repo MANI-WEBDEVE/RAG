@@ -1,7 +1,33 @@
-Nothing needs to be added to .gitignore since only a README.md file was modified and no build artifacts, dependencies, or temporary files were detected in the changes.
+# .gitignore
 
+# Data — NEVER commit raw data
+data/raw/
+data/processed/
+data/interim/
+models/
+
+# Secrets
 .env
-ML.pdf
-qwen-0.6b-embedding
-main.py
-.vscode
+*.pem
+*.key
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/

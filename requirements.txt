@@ -1,0 +1,32 @@
+# === Core ===
+python-dotenv==1.0.1
+pyyaml==6.0.2
+tqdm==4.66.4
+
+# === PDF Parsing ===
+PyMuPDF==1.24.5            # Fast PDF text extraction
+pdfplumber==0.11.1         # Table extraction from PDFs
+pypdf==4.2.0               # PDF metadata, splitting
+pikepdf==9.0.0             # Password-protected PDF handling
+
+# === OCR (if scanned PDFs) ===
+pytesseract==0.3.10        # Tesseract wrapper
+Pillow==10.3.0             # Image handling
+
+# === Excel / Structured Data ===
+openpyxl==3.1.2            # .xlsx files
+pandas==2.2.2              # Data manipulation
+xlrd==2.0.1                # Legacy .xls files
+
+# === Word / Other Docs ===
+python-docx==1.1.2         # .docx parsing
+unstructured==0.14.4       # Multi-format parser (backup)
+
+# === Text Processing ===
+regex==2024.5.15           # Advanced regex
+chardet==5.2.0             # Encoding detection
+ftfy==6.2.0                # Fix broken unicode text
+
+# === Utilities ===
+rich==13.7.1               # Pretty terminal output
+click==8.1.7               # CLI commands
