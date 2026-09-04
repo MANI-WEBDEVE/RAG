@@ -64,14 +64,14 @@ def scan_directory(data_dir: str) -> list[FileInfo]:
                 info.error = str(e)
             
             files.append(info)
-            print(f"Scanned: {info.name} | Size: {info.size_mb:.2f} MB | Encrypted: {info.is_encrypted} | Encoding: {info.encoding} | Error: {info.error}")
+            # print(f"Scanned: {info.name} | Size: {info.size_mb:.2f} MB | Encrypted: {info.is_encrypted} | Encoding: {info.encoding} | Error: {info.error}")
 
     return files
 
 def print_inventory(files: list[FileInfo]):
     """Pretty print the inventory."""
     
-    table = Table(title="📚 ABC Library — Data Inventory")
+    table = Table(title="ABC Library — Data Inventory")
     table.add_column("Format", style="cyan")
     table.add_column("Count", justify="right")
     table.add_column("Total Size (MB)", justify="right")
@@ -110,7 +110,7 @@ def print_inventory(files: list[FileInfo]):
         "[bold]TOTAL[/bold]",
         f"[bold]{len(files)}[/bold]",
         f"[bold]{total_size:.2f}[/bold]",
-        f"[bold]🔒 {total_encrypted}[/bold]",
+        f"[bold] {total_encrypted}[/bold]",
         ""
     )
     
@@ -119,13 +119,13 @@ def print_inventory(files: list[FileInfo]):
     # Errors report
     errors = [f for f in files if f.error]
     if errors:
-        console.print(f"\n[red]⚠️  {len(errors)} files with errors:[/red]")
+        console.print(f"\n[red]⚠️{len(errors)} files with errors:[/red]")
         for f in errors[:10]:
             console.print(f"  [red]✗[/red] {f.name}: {f.error}")
 
 if __name__ == "__main__":
     import sys
-    data_dir = sys.argv[1] if len(sys.argv) > 1 else "/mnt/inam/RAG_SYSTEM/RAG_SYSTEM/data/raw"
+    data_dir = sys.argv[1] if len(sys.argv) > 1 else "/mnt/inam/RAG_SYSTEM/data"
     
     console.print(f"\n[bold green]Scanning:[/bold green] {data_dir}\n")
     files = scan_directory(data_dir)

@@ -5,6 +5,7 @@ data/raw/
 data/processed/
 data/interim/
 models/
+data/converted
 
 # Secrets
 .env
