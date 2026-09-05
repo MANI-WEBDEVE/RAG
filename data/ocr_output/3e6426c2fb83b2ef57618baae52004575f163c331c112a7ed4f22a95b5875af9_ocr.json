@@ -1,0 +1,84 @@
+{
+  "file_hash": "3e6426c2fb83b2ef57618baae52004575f163c331c112a7ed4f22a95b5875af9",
+  "source_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Distillation, Unit 8.pdf",
+  "ocr_results": [
+    {
+      "text": "Unit\n8\nAbnormal\nOperating\nSituations\nThis\nfinal\nunit\nof\nPractical\nDistillation\npresents\na\nseries\nof\nabnormal\nsituations\nin\nthe\noperation\nof\nthe\nfractionating\ntower.\nIn\neach\nsituation,\ndata\nlike\ninstrument\nreadings\nand\ntest\nresults\nadd\nup\nto\na\nsignificant\nabnormality\nin\nthe\nopera-\ntion.\nThe\nprogram\ngives\npractice\nin\napplying\nthe\nsame\norderly\npattern\nof\nthought\nwhich\nthe\noperator\nuses\nin\nnormal\nopera-\ntions:\nCollect\nthe\ndata.\nConsider\nthe\nproblem.\nCorrect\nthe\noperation.\nCheck\nthe\nresults.\nwagon\nAtay\n|\nLg\nCalling\nupon\nthe\nknowledge\nof\nthe\nfractionating\ntower\nand\nthe\nrefining\nprocess\nwhich\nhas\nbeen\ndeveloped\nin\npreced-\ning\nunits,\nthe\noperator\nis\nable\nto\nidentify\nthe\ncause\nof\nabnor-\nmality,\nchoose\na\ncorrection\nfrom\nthe\nalternatives\navailable,\nand\nverify\nhis\njudgment\nby\nobserving\nits\neffects.\nBy\nthis\nmeans\nhe\nbecomes\nmore\nable\nto\nmeet\nabnormal\nsituations\nsuccessfully\nas\nthey\ndevelop\non\nthe\njob.",
+      "confidence": 93.65277777777777,
+      "language": "eng+hin",
+      "page_num": 1,
+      "word_count": 144
+    },
+    {
+      "text": "SITUATION\n1\n—P\nGAS\nOIL\nFEED\nFe”\n1\nTEMPERATURE\nGRADIENT\nT2\nCurrent\noperating\nconditions:\nTemperature\ndifference\nbetween\nTl\nand\nT2\nwas\n300°F.\nIt\nhas\ndecreased\nto\n50°F.\nGas\noil\nend\npoint\nwas\n650°F.\nIt\nhas\nincreased\nto\n720°F.\nProduct\nis\nheavier\nthan\nspecifications\ncall\nfor.\nPressure\ndifference\n(pressure\ndrop)\nacross\ntower\nwas\n12\nPSIG.\nIt\nhas\nincreased\nto\n15\nPSIG.\nTower\ntop\npressure\nis\nirregular\n(fluctuates\nbetween\n70-75\nPSIG).\nLiquid\nfeed\nrate\nwas\nraised\nfrom\n500\nbarrels\nper\nhour\nto\n650\nbarrels\nper\nhour,\non\na\nprevious\nshift.\n1.\nTemperature\ngradient\nin\nthe\naffected\nsection\nhas\nde-\ncreased.\nThis\ncondition\noccurs\nin\n(flooded\ntrays/dry\ntrays/high\nlevels/upset\ntrays/trays\nwith\ntrapped\nwater\n/all\nof\nthese).\nall\nof\nthese\n2.\nProduct\nquality\nhas\nbeen\nimpaired.\nThis\ncondition\noccurs\nin\n(flooded\ntrays/dry\ntrays/high\nlevels/upset\ntrays/trays\nwith\ntrapped\nwater,‘all\nof\nthese).\nall\nof\nthese\n[21]",
+      "confidence": 90.36428571428571,
+      "language": "eng+hin",
+      "page_num": 2,
+      "word_count": 140
+    },
+    {
+      "text": ".\nThere\nhas\nbeen\nan\nincrease\nin\npressure\ndrop\nacross\nthe\ntower.\nIncreased\npressure\ndrop\noccurs\nin\n(flooded\ntrays/dry\ntrays/high\nlevels/upset\ntrays/trays\nwith\ntrapped\nwater/\nall\nof\nthese).\n.\nTower\ntop\npressure\nhas\nbecome\nirregular.\nThis\noccurs\nonly\nin.\n—<\nt=\ntrays.\n.\nThus,\na\nsection\nof\nthis\ntower\nis\n.\nTo\ncorrect\nflooding\nyou\nmust\n(increase/decrease)\nthe\nliquid\nflow\ndown\nin\nthe\ntower,\n(increase/decrease)\nthe\nvapor\nflow\nup\nin\nthe\ntower,\nor\nboth\nof\nthese.\n.\nThe\nfeed\nrate\nto\nthe\ntower\nhas\nincreased.\nCorrection\ncan\nbe\naccomplished\nby\n(increasing/decreas-\ning)\nthe\nfeed\nrate\nto\nthe\ntower.\n.\nThis\ndecreases\nthe\n(vapor/liquid)\nflow\nin\nthe\ntower.\n[22]\nflooded\ntrays,\nand\nhigh\nlevels\nflooded\nflooded\ndecrease\ndecrease\ndecreasing\nliquid",
+      "confidence": 91.72268907563026,
+      "language": "eng+hin",
+      "page_num": 3,
+      "word_count": 119
+    },
+    {
+      "text": "SITUATION\n2\nCurrent\noperating\nconditions:\nTemperature\ndifference\nbetween\nthe\nfeed\nzone\nand\nthe\ntower\nbottom\nwas\n200°F.\nIt\nhas\ndecreased\nto\n50°F.\nSpecifications\ncall\nfor\na\nbottom\nproduct\nwith\nan\nI.B.P.\nof\n400°F.\nIt\nhas\ndecreased\nto\n180°F.\nPressure\ndrop\nbetween\nfeed\nzone\nand\nbottom\nwas\n10\nPSIG.\nIt\nhas\nincreased\nto\n14\nPSIG.\nPressure\ndrop\nbetween\nfeed\nzone\nand\ntower\ntop\nhas\nremained\nunchanged.\nTower\nbottom\nlevel\nis\nhigh\nand\nout\nof\nsight.\n1.\nDecreased\ntemperature\ngradient\nand\nimpaired\nproduct\nquality\nare\nfound\nin\nall\nabnormal\nsituations.\nIncreased\npressure\ndrop\nis\nfound\nin\nflooded\ntrays\nand\nee\nhigh\nlevels\n2.\nThe\nsituation\nis\npossibly\nflooded\ntrays\nor\na\nhigh\nliquid\nlevel.\nThe\ndecreased\ntemperature\ngradient\nappears\nin\nthe\n(bottom/top)\nof\nthe\ntower.\nbottom\n8.\nThe\naffected\narea\nis\nat\nthe____————s\noff\nthle\ntower.\nbottom\n[\n23\n]",
+      "confidence": 93.64492753623189,
+      "language": "eng+hin",
+      "page_num": 4,
+      "word_count": 138
+    },
+    {
+      "text": ".\nBottom\nlevel\nis\nhigh\nand\nout\nof\nsight.\nThe\nliquid\nlevel\nhas\nrisen\ninto\nthe\n_______~_\nsection\nof\nthe\ntower.\n.\nThe\ntower\nappears\nto\nbe\n.\nThe\nlevel\nof\nliquid\nin\nthe\nbottom\nof\nthe\ntower\nmust\nbe\n(decreased/increased).\n.\nThis\ncan\nbe\ndone\nby\n(increasing/decreasing)\nthe\namount\nof\nfeed.\nOr\nby\n(increasing/decreasing)\nthe\nbottom\ndraw.\n[24]\ntray\nflooded\ndecreased\ndecreasing\nincreasing",
+      "confidence": 91.9375,
+      "language": "eng+hin",
+      "page_num": 5,
+      "word_count": 64
+    },
+    {
+      "text": "SITUATION\n3\n—p\nGAS\nOIL\n=\nTEMPERATURE\nGRADIENT\nFEED\n12\nCurrent\noperating\nconditions:\nGas\noil\ndraw\nhas\nincreased\nfrom\n100\nbarrels\nper\nhour\nto\n125\nbarrels\nper\nhour.\nTemperature\ndifference\nbetween\nthe\ngas\noil\ndraw\nand\nthe\nfeed\nzone\nhas\ndecreased\nfrom\n300°F\nto\n10°F.\nGas\noil\nhas\na\nhigher\nend\npoint\nthan\nspecifications\ncall\nfor.\nPressure\ndrop\nacross\nthe\ntower\nhas\ndecreased\nfrom\n12\nPSIG\nto\n10\nPSIG.\nThe\ndecreased\ntemperature\ngradient\nhas\noccurred\nin\na\nsection\nbelow\nthe\ngas\noil\ndraw\ntray.\naS\nDecreased\ntemperature\ngradient\nand\nimpaired\nproduct\nquality\ncan\noccur\nin\n__\nabnormal!\nsituation.\nObserve\nthe\npressure\ndrop.\nA\nsmall\npressure\ndrop\noccurs\nin______—ttrays\nand\n27...\n171\n85\nA\ndry\ntray\ncan\nbe\ncorrected\nby\nmaking\nsome\nadjustment\nto\nthe\noperation.\nAn\nupset\ntray\n(can/cannot)\nbe\ncorrected\nby\nadjusting\nthe\noperation.\n[25\n]\nany\ndry\nupset\ncannot",
+      "confidence": 91.92198581560284,
+      "language": "eng+hin",
+      "page_num": 6,
+      "word_count": 141
+    },
+    {
+      "text": "10.\nAk.\nTo\ndiscover\nwhether\nthe\nsection\nis\ndry\nor\ntrays\nare\nupset,\nyou\nshould\nmake\na\ncorrection\nfor\n______\ntrays.\nIf\nthe\ncorrection\nreturns\nthe\noperation\nto\nnormal,\nyou\nknow\nthat\nthe\ntrays\nare\ndry,\nnot\nThe\ntrays\nare\ndry\nbetween\nthe\nfeed\nzone\nand\nthe\n—.\ndraw-off\ntray.\nLiquid\nentering\nthis\nsection\nmust\nbe\n(increased/\ndecreased)\n.\nYou\ncan\nsend\nmore\nreflux\ndown\nto\nthis\nsection\nby\n(reducing/increasing)\nthe\namount\nof\ngas\noil\nbeing\ndrawn\nfrom\nthe\ntower.\nOr\nyou\ncan\nincrease\nthe\nflow\nof\nreflux\nto\nthe\ngas\noil\ndraw\ntray\nby\ndrawing\nless\nof\nthe\nnext\nproduct\n(above/below)\ngas\noil.\nThe\nchoice\nrests\nbetween\nthe\ndesire\nfor\ngas\noil\nor\nthe\nnext\nlighter\nproduct.\nIf\ngas\noil\nis\nmore\ndesirable,\nyou\nshould\ndecrease\nthe\namount\nof\n(gas\noil/the\nnext\nlighter\nproduct).\nAssuming\nthat\nan\nadjustment\nhas\ncorrected\nthe\nsituation,\nthe\ntrays\nwere\n(dry/upset).\n[\n26\n]\ndry\nupset\ngas\noil\nincreased\nreducing\nabove\nthe\nnext\nlighter\nproduct\ndry",
+      "confidence": 93.66666666666667,
+      "language": "eng+hin",
+      "page_num": 7,
+      "word_count": 162
+    },
+    {
+      "text": "SITUATION\n4\nCurrent\noperating\nconditions:\nTower\nis\noperating\nat\n30\nPSIG.\nTop\ntemperature\nis\n180°F.\nBottom\ntemperature\nis\n350°F.\nTemperature\ndifference\n(T1-T2)\nhas\ngradually\ndecreased\n65°F\nto\n10°F.\nThe\ntemperature\nof\nboth\nTl\nand\nT2\nis\nabout\n240°F.\nThe\nend\npoint\nof\nthe\noverhead\nproduct\nhas\nrisen.\nibs\nThe\noperating\nconditions\nlisted\nabove,\ntemperature\ngra-\n;\ndient\nand\nproduct\nquality,\nappear\nin________\nabnormal\nsituations.\nThe\ntemperature\nbetween\nT1-T2\nis\nabout\n240°F.\nThis'is\nroughly\nthe\ntemperature\nof\nwater\nat\n30\nPSIG.\nThis\npeculiar\ntemperature\nindicates\nthat\nwater\nmay\nbe\nin\nthis\nsection\nof\nthe\ntower.\n[27\n]\nall\nboiling\ntrapped",
+      "confidence": 91.53535353535354,
+      "language": "eng+hin",
+      "page_num": 8,
+      "word_count": 99
+    },
+    {
+      "text": "10.\n11.\nPossibly,\nthis\nwater\nhas\nentered\nthe\ntower\nas\nmoisture\nin:the2=222\n__\nor:\ninthe\nFor\nthis\nsection\nof\ntower\nto\nbecome\nefficient,\nthis\nwater\nmust\nbe\nThe\ntemperature\nat\nthe\ntop\nof\nthe\ntower\nis\n(above/below)\nthe\nboiling\npoint\nof\nthe\nwater.\nTo\nremove\nthe\nwater\noverhead,\nthe\ntop\ntemperature\nmust\nbe\n(decreased\n/increased).\nIt\nmust\nbe\nincreased\nto\na\npoint______\nthe\nboiling\ntemperature\nof\nthe\nwater.\nTo\nremove\nthe\nwater\nat\nthe\nbottom\nof\nthe\ntower,\n(inerease/decrease)\nthe\nbottom\ntemperature.\nThe\nbottom\ntemperature\nmust\nbe\ndecreased\nfrom\n350°F\nto\n=e\nEee\n240°R.\nProduct\nremoved\nfrom\nthe\ntower\nduring\nthis\ntime\nmust\nbe\ndiscarded.\nThis\nproduct\nwould\nnot\nmeet\n[\n28]\nfeed,\nreflux\nremoved\nbelow\nincreased\nabove\ndecrease\nbelow\nspecifications",
+      "confidence": 88.62809917355372,
+      "language": "eng+hin",
+      "page_num": 9,
+      "word_count": 121
+    },
+    {
+      "text": "SITUATION\n5\nOVERHEAD\n=\nनल»\nFEED\nCurrent\noperating\nconditions:\nDecreased\ntemperature\ngradient\nbetween\nT1\nand\nT2.\nOverhead\nproduct\nhas\na\nhigh\nend\npoint.\n|\nSmall\ndecrease\nin\npressure\ndrop\nacross\nthe\ntower.\nde\nCurrent\noperating\nconditions\nindicate\nthat\na\nsection\nof\ntower\nis\noperating\nwith\n-\n/_.\ntrays\nor\n£4)\n=*\n\"trays,\nDecreased\ntemperature\ngradient\nand\nimpaired\nproduct\nquality\nappear\nin\n____\nabnormal]\nsituations.\nTo\ndiscover\nwhether\ntrays\nare\ndry\nor\nupset,\nproceed\nwith\nadjustment\nfor\n__.__\ntrays.\nIncreasing\nreflux\nto\nthe\nsection\ndoes\nnot\nalter\nthe\nsitu-\nation.\n\"PrAVS\nBr6\n227\nSCZ\nYou\n(can/cannot)\ncorrect\nthis\nsituation\nconveniently.\nIf\ntower\nefficiency\nis\nseriously\nimpaired,\nthe\ntower\nwill\nhave:to-be\ntaken=\n=\"\n0\nee\n[29]\ndry,\nupset\nall\ndry\nupset\ncannot\noff-stream,\nor\ndown",
+      "confidence": 84.70731707317073,
+      "language": "eng+hin",
+      "page_num": 10,
+      "word_count": 123
+    },
+    {
+      "text": "7.\nThen\nthe\n________\nwill\nhave\nto\nbe\nrepaired\nor\nreplaced\ntrays\nby.\nhand.\n8.\nUnless\nthe\nupset\ntrays\nare\nmaking\nthe\nproducts\nunusable,\nyou\nprobably\n(will/will\nnot)\ncontinue\nto\noperate\nthe\ntower\nwill\nwith\nthe\nupset\ntrays.\nThe\neight\nunits\nof\nPractical\nDistillation\nhave\npresented\nthe\nessentials\nof\nthe\nfractionating\nprocess\nand\nthe\ntower.\nNow\nthat\nyou\nhave\nworked\nthrough\nthis\nprogram\nto\nits\nend,\nyou\nknow\nthe\nessentials\nof\nrefining,\nthe\nhow\nand\nthe\nwhy\nof\nit,\nand\nyou\ncan\nuse\nthis\nknowledge\non\nthe\njob.\nGetting\nthis\nfar,\nyou\ncan\ngo\non\nto\nfurther\nlearning:\ndeeper\ninto\nthe\nprocess\nitself,\nor\ninto\nother\naspects\nof\nrefinery\noperations.\nYou\nhave\ncompleted\nPILOT\nI.\nWhy\nnot\ngo\non\nto\nother\nPILOTS,\nand\nkeep\ngoing\nuntil\nyou\nhave\nworked\nthrough\nthe\nPILOT\nseries?\nThe\nmore\nyou\nknow,\nthe\nmore\nvaluable\nyou\nare\nto\nthe\ncompany,\nand\nthe\nmore\nsatisfaction\nyou\nfind\nin\nyour\njob.\n[30]",
+      "confidence": 94.89677419354838,
+      "language": "eng+hin",
+      "page_num": 11,
+      "word_count": 155
+    }
+  ],
+  "total_pages": 11
+}

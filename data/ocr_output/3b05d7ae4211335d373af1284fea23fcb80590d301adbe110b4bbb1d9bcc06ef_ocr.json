@@ -1,0 +1,189 @@
+{
+  "file_hash": "3b05d7ae4211335d373af1284fea23fcb80590d301adbe110b4bbb1d9bcc06ef",
+  "source_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Centifugal Pumps, Unit 2.pdf",
+  "ocr_results": [
+    {
+      "text": "Section\n2\nDesign\nand\nConstruction\nof\nCentrifugal\nPumps",
+      "confidence": 95.875,
+      "language": "eng+hin",
+      "page_num": 1,
+      "word_count": 8
+    },
+    {
+      "text": "SECTION\n2\nDESIGN\nAND\nCONSTRUCTION\nOF\nCENTRIFUGAL\nPUMPS\nPUMP\nTYPES\nas\n10.\nTt,\nPumps\nare\nclassified\naccording\nto\nimpeller\ndesign\nand\nthe\nnumber\nof\nimpellers.\nA\nmultistage\npump\nhas\nmore\nthan____\nimpeller.\nA\ntwo-stage\npump\nhas\n_____\nimpellers.\nA\ntwo-stage\npump\nhas\nthe\nsame\neffect\nas\njoining\nsingle-stage\npumps\nin\nseries.\nThe\nfirst\npump\ndischarges\ninto\nthe\n_______\npump.\nA\nmultistage\npump\nhas\ntwo\nor\nmore\nimpellers\nmounted\non\none\nThe\nhead\nat\nthe\ndischarge\nof\nthe\nsecond\nimpeller\nis\ngreater\nthan\nthe\nhead\nat\nthe\ndischarge\nof\nthe\nfirst.\nThe\ngreater\nthe\nnumber\nof\nimpellers,\nthe\n(higher/\nlewer)\nthe\nfinal\ndischarge\nhead\nis.\nSince\nliquids\nare\nnearly\nincompressible,\nall\nthe\nimpellers\nin\nthe\npump\nare\ndesigned\nfor\nabout\nthe\nsame\ncapacity.\nThe\nimpellers\nof\na\nmultistage\npump\nare\nall\nabout\nthe\nsize.\nPumps\nare\nalso\nclassified\nas\nsingle-suction\nor\ndouble-\nsuction.\n:\nIn\na\nsingle-suction\npump,\nliquid\nenters\nfrom\n(one\nside/\nboth\nsides)\nof\nthe\nimpeller.\nIn\na\ndouble-suction\npump,\nliquid\nenters\nthrough\n(one\nside/both\nsides)\nof\nthe\nimpeller.\nSince\nliquid\nenters\nat\nboth\nsides\nof\nthe\nimpeller,\na\ndouble-suction\npump\nis\nused\nfor\n(high/low)\ncapacity\noperations.\nDouble-suction\npumps\nhave\nlower\nNPSH\nrequirements.\nWhen\nthe\nNPSH\navailable\nis\nlow,\na_____~-_-suction\npump\nis\nprobably\nbetter\nsuited\nfor\nthe\npumping\njob.\n32\none\ntwo\ntwo\nsecond\nshaft\nhigher\nSame\none\nside\nboth\nsides\nhigh\ndouble",
+      "confidence": 92.76785714285714,
+      "language": "eng+hin",
+      "page_num": 2,
+      "word_count": 224
+    },
+    {
+      "text": "12.\nImpellers\nmay\nbe\nopen,\npartially\nopen,\nor\nenclosed.\nOPEN\nPARTIALLY\nOPEN\nENCLOSED\nIn\nall\nthree\ndesigns,\nthe\n____________\nof\nthe\nimpeller\neye\nis\nopen.\n13.\nOn\nan\nopen\nimpeller,\nthe\nsides\nof\nthe\nvanes\n(are/are\npot)\ncovered.\nare\nnot\n14.\nMore\nliquid\nleaves\nthe\nrim\nof\nthe\n(open/partially\nopen/\nenclosed)\nimpeller.\nenclosed\n15.\nFlow\nis\nleast\ncontrolled\nin\nthe\n__________\nimpeller.\nopen\n16.\nThe___________\nimpeller\nis\nthe\nleast\nlikely\nto\nbe-\nopen\ncome\nclogged.\nPropeller\nPumps\n17.\nA\npropeller\npump\nworks\nvery\nmuch\nlike\nan\nimpeller\npump.\nInstead\nof\nan\nimpeller,\nthe\n___________\nwhips\nthe\npropeller\nliquid\npassing\nthrough\nit\nto\nhigh\nspeed.\n33",
+      "confidence": 91.71428571428571,
+      "language": "eng+hin",
+      "page_num": 3,
+      "word_count": 105
+    },
+    {
+      "text": "18.\n19.\n20.\n22.\n23.\n24.\nIn\nthis\nway\nthe\npropeller\nadds__._———s\nto.\nthe\nliquid.\nThere\nare\ndifferences\nbetween\nimpellers\nand\npropellers.\nPROPELLER\nIMPELLER\nFor\nexample,\nliquid\nleaves\nthe\n(propeller/impeller)\nin\nthe\nsame\ndirection\nas\nit\nentered.\nLiquid\nleaves\nthe\n(impeller/propeller)\nat\nright\nangles\nto\nthe\nway\nit\nentered.\n.\nLiquid\nenters\nthe\nimpeller\nonly\nthrough\nthe\neye\nin\nthe\n(impeller/propeller)\npump.\nIn\nthe\npropeller\npump,\nliquid\nenters\nthe\npump\n(through\nthe\neye/through\nthe\nblades).\nThe\narea\nthrough\nwhich\nliquid\nenters\nthe\npump\nis\nsmaller\nin\nthe\n(impeller/propeller)\npump.\nTherefore,\nthe\n_____________\npump\ncan\nhandle\nlarger\ncapacities.\n34\nenergy,\nor\npressure\npropeller\nimpeller\nimpeller\nthrough\nthe\nblades\nimpeller\npropeller",
+      "confidence": 92.54128440366972,
+      "language": "eng+hin",
+      "page_num": 4,
+      "word_count": 109
+    },
+    {
+      "text": "Turbine\nPumps\n25.\nThe\nbest\nfeatures\nof\nthe\nimpeller\npump\nand\nthe\npro-\npeller\npump\nare\ncombined\nin\nthe\nturbine\npump.\nPROPELLER\nTURBINE\nIMPELLER\nThe\nturbine\npump\nis\na\nmixture\nof\nthe\npropeller\npump\nand\nthe\n__-\nsd\npump.\nimpeller\n26.\nThe\nflow\nof\nliquid\nthrough\na\nturbine\npump\nis\nlike\nthe\nflow\nthrough\na\ncentrifugal\npump.\nlike\nthe\nflow\nthrough\na\npropeller\npump.\nhalfway\nbetween\nthe\nflow\nthrough\na\ncentrifugal\npump\nand\nthe\nflow\nthrough\na\npropeller\npump.\nhalfway\nbetween\n27.\nThe\nturbine\npump,\nlike\na\npropeller\nor\nan\nimpeller\npump,\ncan\nbe\nsingle-\nor\nmultistage.\nThe\nmultistage\npump\nis\nused\nwhen\nyou\nneed\na\nhigher\ndischarge\n(capacity\n/head).\nhead\nNow\nturn\nthe\npage,\n35\nturn\nthe\nbook\nover,\nand\ngo\non.",
+      "confidence": 92.1869918699187,
+      "language": "eng+hin",
+      "page_num": 5,
+      "word_count": 123
+    },
+    {
+      "text": "28.\nName\nthe\nfollowing\npump\ndesigns.\nAy\neet\neee\neee\nA.\nsingle-suction\nBi\nowt\neb\nTet\nB.\ndouble-suction\nC.\nmultistage\nD.\npropeller\npump\n1\nalps\nala\nac\nde\nन\n7B\nE.\nturbine\npump\n29.\nWhich\nof\nthese\npumps\nare\nnot\ncentrifugal\npumps?\n(A/B/C/D/E)\nD\nand\nE\n36",
+      "confidence": 70.97872340425532,
+      "language": "eng+hin",
+      "page_num": 6,
+      "word_count": 47
+    },
+    {
+      "text": "Vertical\nand\nHorizontal\nPumps\n80.\nThis\npump\nmust\nmove\nliquid\nup\nout\nof\na\nwater\nwell,\nor\npit,\nor\nany\nother\nsource\nof\nliquid.\nThere\n(is/is\nno)\nsuction\nhead\navailable.\nis\nno\n81.\nThe\npressure\nneeded\nto\nmove\nliquid\ninto\nthe\npump\nsuc-\ntion\nmust\ncome\nfrom\n__________\npressure.\natmospheric\n32.\nIf\nthe\nwell\nis\ndeep,\natmospheric\npressure\n(can/cannot)\ncannot\npush\nthe\nliquid\nall\nthe\nway\nup\ninto\nthe\npump\nsuction.\n88.\nOne\nway\nto\nincrease\nthe\nNPSH\navailable\nis\nto\n(in-\nerease/decrease)\nthe\ndistance\nliquid\nhas\nto\nmove\nup\nto\ndecrease\nget\nto\nthe\npump\nsuction.\n84.\nHere\nthe\npump\nhas\nbeen\nplaced\nin\nthe\nwell\nliquid.\nThis\ngives\nthe\npump\n(more/less)\nNPSH\navailable.\nmore\n87",
+      "confidence": 94.14529914529915,
+      "language": "eng+hin",
+      "page_num": 7,
+      "word_count": 117
+    },
+    {
+      "text": "35.\n36.\nSince\nthe\nwell\nis\ndeep\nand\nnarrow,\nthe\npump\nmust\nbe\nput\nin\nit\n(horizontally/vertically).\nTo\nprovide\nbetter\nNPSH,\nthe\npump\nis\ninstalled\n(hori-\nzontally/vertically)\nand\n(above/below)\nthe\nlevel\nof\nthe\nliquid.\nBecause\nof\nthe\nlarge\namount\nof\ndischarge\nhead\nneeded\nto\nlift\nliquid\nfrom\na\nwell,\nthe\nturbine\nvertical\npump\nis\ngenerally\n(single-/multi-)\nstage.\nPumps\nOperating\nin\nSeries\nor\nin\nParallel\n387.\n38.\n39.\nWhen\nthe\ndischarge\nof\none\npump\nis\nfed\ninto\nthe\nsuction\nof\nanother\npump,\nthe\ntwo\npumps\noperate\nin\nseries.\nPumps\n(A/B)\nare\noperating\nin\nseries.\nWhen\nthe\npumps\nare\nconnected\nin\nseries,\nthe\nsecond\npump\ntakes\nliquid\nfrom\nthe\nfirst\nand\nincreases\nthe\ndischarge\nhead.\nPutting\npumps\nin\nseries\nincreases\nthe\ndischarge\n____\nof\nthe\nsystem.\nThe\nsecond\npump\ncannot\ndischarge\nmore\nliquid\nthan\nit\nreceives\nfrom\nthe\nfirst.\nThus,\npumps\nin\nseries\n(should/should\nnot)\nhave\nabout\nthe\nsame\ncapacities.\n38\nvertically\nvertically\n;\nbelow\nmulti-\nhead\nshould",
+      "confidence": 94.56410256410257,
+      "language": "eng+hin",
+      "page_num": 8,
+      "word_count": 156
+    },
+    {
+      "text": "40.\n41.\n42.\n48,\n44,\n45,\n46.\n47.\n48.\n49.\nPumps\nthat\ndischarge\ninto\nthe\nsame\nline\nare\noperating\nin\nparallel.\nPumps\n(A/B)\nare\noperating\nin\nparallel.\n_\nOperating\npumps\nin\nparallel__-\n--\n-\n७\ncapacity\nof\nthe\nsystem.\nWith\npumps\noperating\nin\nparallel,\nthe\ntotal\namount\ndischarged\nequals\nthe\namount\ndischarged\nfrom\nthe\nfirst\npump\n_____\nthe\namount\ndischarged\nfrom\nthe\nsecond.\nSince\nliquid\ndischarged\nfrom\nthe\nfirst\npump\ndoes\nnot\nenter\nthe\nsecond,\nthe\ndischarge\nhead\nproduced\nby\nthe\ntwo\ntogether\nis\n(greater\nthan/the\nsame\nas)\nthe\nhead\nproduced\nby\neach\none\nseparately.\nPumps\noperated\nin\nparallel\nshould\nhave\nabout\nthe\n2\ntotal\nhead\ncharacteristics.\nPumps\nare\noperated\nin\nparallel\nto\nincrease\nPumps\nare\noperated\nin\nseries\nto\nincrease_\nTwo\npumps\nwith\nsimilar\ncapacity\nand\nhead\ncharac-\nteristics\nat\na\ngiven\nspeed\nmay\nbe\nconnected\nin\neither\nS\nor\nTo\nincrease\ncapacity,\nconnect\npumps\nin\nTo\nincrease\nhead,\nconnect\npumps\nin\n89\nB\nincreases\nplus,\nor\n+\nthe\nsame\nas\nsame\ncapacity\nhead\nparallel;\nseries\nparallel\nseries",
+      "confidence": 90.36686390532545,
+      "language": "eng+hin",
+      "page_num": 9,
+      "word_count": 169
+    },
+    {
+      "text": "Regulating\nPump\nDischarge\n50.\nThe\naniount\nof\nliquid\ndischarged\nfrom\na\npump\ncan\nbe\nchanged\nin\na\nvariety\nof\nways.\nA_.——s\non.\nthe\n=\ndischarge\ncan\nbe\nopen\nor\nvalve\nclosed.\n‘\n51.\nBy\npartially\nclosing\nthe\nvalve,\nmore\n_________is\npressure\nneeded\nto\nget\nliquid\nout\nof\nthe\npump.\n52.\nPartially\nclosing\nthe\nvalve\n(increases/decreases)\nthe\ndecreases\ndischarge\nvolume.\n58.\nHere\nis\nanother\nway\nto\nregulate\nthe\ndischarge\nvolume.\nta.\nLINE\n4...\n9\n1176\n18\nconnected\nto\nthe\ndischarge\nline.\nbypass\n40",
+      "confidence": 86.63414634146342,
+      "language": "eng+hin",
+      "page_num": 10,
+      "word_count": 82
+    },
+    {
+      "text": "54.\nAnopen__-___—S—S——_—_s\nin\nthe\nbypass\nline\nallows\nliquid\nvalve\nto\nflow\nthrough\nthe\nbypass\nline\nas\nwell\nas\nthrough\nthe\ndischarge\nline.\n55.\nWhen\nthis\nvalve\nis\nopened,\nsome\nof\nthe\nliquid\nfrom\nthe\nflows\ninto\nthe\nbypass.\ndischarge\n56.\nThen\nit\nflows\nback\nto\nthe\npump’s_____\nSS.\nsuction\n57.\nThis\nmeans\nthat\n(more/less)\nliquid\nis\nactually\ndis-\nless\ncharged\nfrom\nthe\npump\ninto\nthe\ndischarge\nline.\n58.\nBeing\nable\nto\nadjust\nthe\npump\ndischarge\nis\nimpor-\ntant\nwhen\nthe\npump\nmay\nbe\nmoved\nand\nused\nfor\na\noperation.\n;\ndifferent\nMECHANICAL\nDETAILS\nPacking\nBox\n59.\nThe\nrotating\nshaft\nof\na\ncentrifugal\npump\nextends\nout\nthrough\nthe\ncasing\nso\nthat\nthe\nimpeller\nmay\nbe\ncoupled\ntothe:\nAstor\ner\npe\nprime\nmover,\nor\ndriver\n60.\nThe\ndrawing\nshows\na\ntypical\npacking\nbox.\nCASING\nGLAND\nSHAFT\nSHAFT\nSLEEVE\nPACKING\nRINGS\n|\nPACKING\nGLAND\nNUT\nThe\npacking\nis\nformed\n7\"0प्रात\n818.\nto\nmini-\nshaft\nmize\nleakage\nof\nliquid\nfrom\nthe\npump.\n61.\nThe\npacking\nbox\nsurrounds\nthe\nshaft\nwhere\nit\nenters\nthe\n2\n-#\n427-5\ncasing,\nor\nhousing\n41",
+      "confidence": 89.69886363636364,
+      "language": "eng+hin",
+      "page_num": 11,
+      "word_count": 176
+    },
+    {
+      "text": "62.\n63.\n64.\n65.\n66.\n67.\n68.\n69.\n70.\n11\n72.\n73.\n74.\nNormally,\nthe\npacking\nis\nformed\ninto\nrings\nwhich\ncon-\nform\nto\nthe\nshape\nof\nthe\nPacking\nmust\nbe\na\nlow-friction\nmaterial\nwhich\nis\nnon-\nabrasive.\nAbrasive\nmaterial\ndamages\nthe\nTo\nminimize\nleakage\nalong\nthe\nshaft,\nthe\npacking\nis\nagainst\nthe\nshaft.\nIf\nthe\nshaft\nis\npermitted\nto\nrub\ndirectly\nagainst\nthe\npacking,\nthe\nsection\nof\nshaft\nin\nthe\npacking\nbox\nTo\nkeep\nfrom\nreplacing\nthe\nwhole\nshaft\ndue\nto\npacking\nwear,\na__________is\nused\nto\ncover\nthe\nsection\nof\nshaft\ninside\nthe\npacking\nbox.\nPacking\nmust\nbe\na\nmaterial\nthat\nis\nnot\nattacked\nand\nweakened\nby\nthe\nliquid\nbeing\npumped.\nPacking\nwhich\nis\nweakened\nby\nthe\nliquid\npermits\nsome\nof\nthe\nliquid\nbeing\npumped\nto\n__\nto\nthe\natmos-\nphere.\nPacking\nis\nchosen\nfor\nthe\nand\nits\ntemperature.\nbeing\npumped\nA\npacking\ngland\nat\nthe\n(inner/outer)\nend\nof\nthe\npack-\ning\nbox\nholds\nthe\npacking\nin\nplace.\nThe\npressure\nnecessary\nto\ncompress\nthe\nagainst\nthe\nshaft\nsleeve\nand\ncontrol\nleakage\nis\nsupplied\nby\nthe\npacking\ngland\nnuts.\nA\nsmall\namount\nof\nleakage\nbetween\nthe\npacking\nand\nthe\nshaft\nis\nnecessary\nfor\nThe\namount\nof\nby\ncompany\npractices.\nis\nusually\ndetermined\nThe\npacking\ngland\nholds\nthe\nand\ncontrols\nthe\namount\nof\nin\nplace\nIf\nthe\nnut\nis\ntightened\ntoo\nmuch,\nthe\nrubbing\nsur-\nfaces\nmay\nnot\nbe\nsufficiently\n,\nand\nthere\nmay\nbe\nexcessive\nwear\non\nthe_______————\nand\nthe\nSince\ninsufficient\nlubrication\nmay\ncause\noverheating,\npacking\ngland\nnuts\nmust\nbe\nto\nallow\nthe\namount\nof\nleakage\nspecified\nby\ncompany\npractices.\n42\nhaft\nshaft\npressed,\nor\ntightened\nwears\nsleeve\nescape,\nor\nleak\nliquid\nouter\npacking\nlubrication\nleakage\npacking\nleakage\nlubricated\nshaft,\nor\nsleeve\npacking\nadjusted",
+      "confidence": 94.02456140350877,
+      "language": "eng+hin",
+      "page_num": 12,
+      "word_count": 285
+    },
+    {
+      "text": "Lantern\nRings\n75.\n76.\nQT.\n78.\n79.\n80.\nLook\nat\nthe\ndrawing.\nLUBRICATING\nOR\nSEAL\nOIL\nLANTERN\nRING\nThe\nlantern\nring\nis\na\nmetal\ncage\nabout\nthe\nsize\nof\na\npacking\nring\nthat\nfits\naround\nthe.____——_\nsleeve\ninside\nthe\npacking\nbox.\nThe\nlantern\nring\nprovides\na\nspace\nbetween\nthe\npacking\nrings\nnear\nthe\ncenter\nof\nthe\npacking\nbox\nwhich\ncan\nbe\n-\nsupplied\nwith\nlubricating\nor\nseal\nThe\nlantern-ring\narrangement\nshown\ndiffers\nfrom\nring\npacking\nin\nthe\nway\nit\nis\nThe\nlubricating\nfluid\ncan\nbe\nliquid\nfrom\nthe\npump\nor\nliquid\nfrom\noutside\nthe\npump.\nWhen\na\ncorrosive\nor\nerosive\nliquid\nis\nbeing\npumped,\nlantern-ring\nlubrication\nfrom\n(another\nsource/the\npump)\nis\nused.\nLubricating\nfiuid\nis\npumped\ninto\nthe\npacking\nbox\nunder\npressure\nhigher\nthan\nthe\npressure\ninside\nthe\ncasing.\nThis\npressure\nkeeps\nthe\nliquid\nin\nthe\npump\nfrom\nenter-\ning\nthe\nea,\nLantern-ring\npacking\nis\nalso\nused\nin\na\npump\noperating\nat\nless\nthan\natmospheric\npressure.\nWhen\nthe\npump\noperates\nunder\nvacuum,\nair\nmay\nbe\npulled\ninto\nit\nduring\noperation.\nTo\nkeep\nair\nout,\nthe\npressure\nof\nthe\nsealing-lubricating\nfluid\nmust\nbe\n(above/below)\nthe\npressure\nof\nthe\natmos-\nphere.\n43\nshaft\noil\nlubricated\nanother\nsource\npacking\nbox\nabove",
+      "confidence": 94.12121212121212,
+      "language": "eng+hin",
+      "page_num": 13,
+      "word_count": 198
+    },
+    {
+      "text": "81.\n82.\n83.\nIn\na\npump\noperating\nunder\nvacuum,\nthe\nlubricating\nliquid\nis\nusually\nthe\nliquid\nbeing\npumped,\nif\nthat\nliquid\nis\nnoncorrosive.\nIt\nis-pumped\ninto\nthe\npacking\nbox\nat\na\npressure\nabove\n______\npressure.\nPump\nA\nis\npumping\na\nlight\noil.\nPump\nB\nis\npumping\nacid.\n(Pump\nA/Pump\nB)\nis\nfitted\nwith\na\nlantern\nring.\nLiquid\nleaking\nfrom\nthe\npump\nis\na\nhazard,\nespecially\nif\nit\nvaporizes\nat\na\nlow\ntemperature.\nLeakage\ncan\nalso\nbe\nexpensive.\nTherefore,\npump\npacking\nshould\nbe\nSSS\nsfrre-\nquently\nto\nmake\nsure\nit\nis\noperating\nproperly.\nMechanical\nSeals\n84.\n85.\n86.\nMechanical\nseals\nare\nmore\nwidely\nused\nthan\nshaft\npacking\nbecause\nthey\nrequire\nless\nmaintenance\nand\nhold\nleakage\nto\naminimum.\nSPRING\nSEAL\nOIL\nSTATIONARY\nHOLDER\nOUTLET\nSEAL\nRING\n(Carbon)\nCOMPRESSION\nRING\nmoraring\nSEAL\nOM\nFas\nSEAL\nRING\n(Hard-Surface\nMetal)\nThe\nother\nelement\nrotates\nwith\nthe\nThe\nstationary\nseal\nring\nis\nusually\nmade\nof\nThe\nrotating\nseal\nring\nis\nfaced\nwith\nspecial\nmetal\nwhere\nit\ncomes\nin\ncontact\nwith\nthe\n_________\nseal\nring.\n44\natmospheric\nPump\nB\nchecked\nshaft\ncarbon\nstationary",
+      "confidence": 91.93181818181819,
+      "language": "eng+hin",
+      "page_num": 14,
+      "word_count": 176
+    },
+    {
+      "text": "87.\n88.\n89.\n90.\n91.\n92.\nThe\nspring\nholder\nis\nheld\nin\nplace\non\nthe\nshaft\nby\na\nset\nscrew.\nThe\ncompression\nring\nand\nthe\nrotating\nseal\nring\nare\nfree\nto\nmove\nalong\nthe\nThe\nsprings\npush\nagainst\nthe\ncompression\nring\nand\ncompress\nthe\nflexible\nO-ring\nagainst\nthe\nshaft\nand\nthe\nrotating\nseal\nmembers,\nto\nprevent\n—-___-_\nat\nthis\npoint.\nThe\nO-ring\nis\nmade\nof\nrubber\nor\nsome\nother\nflexible\nmaterial,\ndepending\non\nthe\nliquid\nbeing\npumped.\nIt\nmakes\na\ntight_____————S—_—s\nbetween\nthe\nrotating\nelements\nand\nthe\nshaft.\nHeat\nis\ngenerated\nbetween\nthe\nstationary\nand\nrotating\nfaces.\nOil\nis\ncirculated\nin\nthe\npacking\nbox\nto\ncool\nand\nthe\nseal.\nThe\nlubricant\nalso\nhelps\nto\nkeep\ncorrosive\nor\n_-\nmaterial\nout\nof\nthe\nseal.\nA\nsingle\nseal\nhas\none\nset\nof\nsealing\nfaces.\nThis\nseal\nhas\ntwo\nsets\nof\nsealing\nfaces.\nPUMP\nCASING\nCOMPRESSION\nSEAL\nOIL\nRINGS\nO-RING\nSEAL\nOIL\nINLET\nROTATING\nSEAL\nRINGS\nSTATIONARY\nSTUFFING\nSEAL\nRING\nBOX\nFLANGE\nIt\nis\nमे\n5\nSOL\nआती\nपतली],\n45\nshaft\nleakage\nseal\nlubricate\nerosive\ndouble",
+      "confidence": 90.878612716763,
+      "language": "eng+hin",
+      "page_num": 15,
+      "word_count": 173
+    },
+    {
+      "text": "Impeller\nThrust\n|\n93.\nDuring\noperation,\npressure\nin\nthe\ndischarge\nportion\nof\nthe\ncasing\nis\ngreater\nthan\nthe\npressure\nin\nthe\nsuction\nportion.\nSUCTION\n=>\nQe\nDISCHARGE\nPRESSURE\nPRESSURE\nThe\ndischarge\npressure\nacts\non\nthe\nright\nside\nof\nthe\nimpeller,\nexerting\na\nforce\nto\nthe\n(left/right).\nleft\n94.\nThe\ndischarge\npressure\nacting\non\nthe\nright\nside\nof\nthe\nimpeller\nexerts\na\nforce\nto\nthe\nleft.\nThe\nsuction\npressure\nacting\non\nthe\nleft\nside\nof\nthe\nimpeller\nexerts\na\nforce\nto\nthe\nright\n95.\nSince\nthe\nsuction\npressure\nis\nless\nthan\nthe\ndischarge\npressure,\nthe\ntotal\nforce\nacting\nto\nthe\nleft\nis____E\ngreater\nthan\nthe\nforce\nacting\nto\nthe\nright.\n96.\nThis\nimbalance\nof\nforces\ncreates\nthrust\nalong\nthe\nshaft.\nTo\novercome\nthis\nthrust\nand\nhold\nthe\n_____EE__\nimpeller\nin\nits\nproper\nposition,\na\nthrust\nbearing\nis\nused.\n97.\nBoth\nsides\nof\nthe\nimpeller\nmaintain\nclose\nclearance\nwith\nthe\ncasing.\nWEAR\nRING\nWEAR\nRING\nWear\nrings\nat\nthe\neye\nminimize\nleakage\nfrom\nthe\nback\nto\nthe\nsuction.\ndischarge\n46",
+      "confidence": 93.31547619047619,
+      "language": "eng+hin",
+      "page_num": 16,
+      "word_count": 168
+    },
+    {
+      "text": "“98.\nA\ncollar\nat\nthe\nback\nof\nthe\nimpeller\nhas\nthe\nsame\ninside\ndimension\nas\nthe\nsuction\neye.\nWear\nrings\nbetween\nthe\ncollar\nand\nthe\ncasing\nminimize\ninto\nthe\ncollar.\nleakage\n.\n99.\nAny\nleakage\ninto\nthe\ncollar\nflows\nback\ninto\nthe\nsuction\nthrough\na\nhole\nin\nthe\nimpeller.\nThis\nhole\nequalizes\npressure\nbetween\nthe\nleft\nand\nright\nsides:\nof:\nthe\ni127\nteams\nsae\nimpeller\n100.\nSince\nthe\n_________\non\nboth\nsides\nof\nthe\nimpeller\npressure\nis\nabout\nequal,\nthere\nis\nalmost\nno\nthrust.\n101.\nIn\nmultistage\npumps,\nseveral\nmethods\ncan\nbe\nused\nto\nminimize\nthrust.\n\\.\nSome\npumps\nare\nconstructed\nso\nthat\nsome\nof\nthe\nim-\npellers\nface\none\nway\non\nthe\nshaft\nand\nthe\nothers\nface\nthe\nother\nway.\nOne\nset\nof\nimpellers\noffsets\nthe\n__\nof\nthe\nothers.\nthrust\nBalancing\nDrum\n102.\nWhen\nall\nimpellers\nare\ninstalled\nin\nthe\nsame\ndirection\non\nthe\nshaft,\nthrust\nmay\nbe\nreduced\nwith\na\nbalancing\ndrum.\nBALANCING\nDRUM\nATTACHED\nTO\nSHAFT\nPACKING\nBALANCE\nLINE\nTO\nSUCTION\nThe\nthrust\ncreated\nby\neach\nimpeller\nacts\nto\nthe\n(left/\nright).\nleft\n47",
+      "confidence": 92.29213483146067,
+      "language": "eng+hin",
+      "page_num": 17,
+      "word_count": 178
+    },
+    {
+      "text": "“108.\n104.\n105.\n106.\nThe\ntotal\nimpeller\nthrust\nis\nthe\nsum\nof\nthe\nthrust\nof\nall\nthe\nimpellers.\nThe\npressure\nacting\non\nthe\nleft\nside\nof\nthe\nbalancing\ndrum\nis\nthe\npump___________\npressure.\nThe\nspace\non\nthe\nright\nside\nof\nthe\nbalancing\ndrum\nis\nopen\nto\nthe\nsuction.\nThis\nspace\nis\n8\npressure.\nThe\npressure\ndifference\nacross\nthe\nbalancing\ndrum\ncreates\na\nforce\nacting\nto\nthe\nright.\nThe\ndrum\nis\nsized\nso\nthat\nthis\nforce\nbalances\nthe\nimpeller\nThe\nsmall\nclearance\nbetween\nthe\nbalancing\ndrum\nand\nthe\ncasing\nminimizes\nleakage\nfrom\nthe\ndischarge\nback\nto\nthe\nsuction.\nAs\nwear\nincreases,\nthis\nclearance\nincreases,\nand\nthe\nvolumetric\nefficiency\nof\nthe\npump\nALIGNMENT\nAND\nVIBRATION\n107.\n108.\n109.\n110.\n111.\n112.\nThe\npump\nand\nprime\nmover\nare\njoined\nby\ncouplings.\nThe\n“pumprand\noF\nort\n=\nNe\nEe\nust\nbe\nproperly\naligned.\nIf\nthe\npump\nis\nhandling\nhot\nliquid,\nthen\nthe\npump\nshould\nbe\nheated\nto\nnear\noperating\nto\ncheck\nalignment.\nImproper\nalignment\nof\nthe\npump\nand\nprime\nmover\nputs\na\nstrain\non\nthe\nshaft\nand\nmay\nwear\nor\nbreak\nthe\nshaft\nor\ncouplings.\nImproper\nalignment\nmay\nalso\ncause\nbearings\nand\nseals\nto_/_seexccessively\nor\nfail.\nImproper\nalignment\nmay\nalso\ndamage\nwear\nrings,\nand\npermit\nthe\nimpeller\nto\n______\nagainst\nother\nparts.\nAny\nimproperly\nbalanced\nrotating\nassembly\nmay\ncause\nexcessive\nvibration.\nMisalignment\nof\npump\nand\nprime\nmover\nor\npartially\nblocked\nimpellers\nmay\nalso\ncause\nCavitation\nin\nthe\nimpeller\nis\nthe\ncontinual\nforming\nand\ncollapsing\nof\nvapor\nbubbles\nin\nthe\nliquid.\nCavitation\nmay\ncause\nthe\npump\nto\n48\ndischarge\nsuction\nthrust\ndecreases\nprime\nmover,\nor\ndriver\ntemperature\nwear\nrub\nvibration\nvibrate",
+      "confidence": 92.01127819548873,
+      "language": "eng+hin",
+      "page_num": 18,
+      "word_count": 266
+    },
+    {
+      "text": "118.\nSometimes\nvibration\ncan\nbe\nheard,\nor\ndetected\nby\nthe\npump.\n114.\nMany\npumps\nare\nequipped\nwith\ngages\nand\nmeters\nwhich\nvibration.\n~\n115,\nExcessive\nvibration\nis\na\nsign\nthat\nsomething\nis\nwrong\nwith\nthe\npump.\nIf\nunusual\nnoise\nor\nvibration\noccurs,\nthe\npump\nmust\nbes\n__——SSSsas\nsoon\nas\npossible.\nLUBRICATION\nWear\nRings\n116.\nWear\nrings\nsimplify\nmaintenance\nby\nprotecting\nthe\ncasing\nand\nthe\nहू\n117.\nWear\nrings\nare\nlubricated\nonly\nby\nthe\n_______\nbeing\npumped.\n118.\nWear\nrings\nare\nnot\nproperly\nlubricated\nif\nthe\nliquid\nin\nthe\npump\nvaporizes\nor\nif\nthe\npump\nruns\n;\nThe\nPacking\nBox\n119.\nPacking\nmust\nalways\nbe\nlubricated.\nNormally,\nring\npacking\nis\nlubricated\nby\nthe\nbeing\npumped.\n120.\nThe\nlantern\nring\nand\npacking\nare\nlubricated\nby\nan\noil\npumped\nto\nthe\nring,\nespecially\nif\nthe\npump\nis\nhandling\nor\nerosive\nliquid.\n121.\nSome\npacking\nboxes\nare\nlubricated\nby\ngrease\ncups\ninstead\nof\nBearings\nand\nCouplings\n122.\nThe\npump\nshaft\nmust\nrotate\nwith\nthe\nleast\nfriction\npossible.\nResistance\nto\nthe\nrotation\nof\nthe\nshaft\nmust\nbe\nas\nas\npossible.\n128.\nThe\nimpeller\nmust\nbe\nkept\nin\nposition\nwhile\nit\nrotates.\nIt\nmust\nbe\nfree\nto\nrotate,\nbut\nnot\nto\n________\nin\nother\ndirections.\n49\nfeeling\ndetect\nshut\ndown\nimpeller\nliquid\ndry\nliquid\ncorrosive\noil\nsmall\nmove",
+      "confidence": 93.16509433962264,
+      "language": "eng+hin",
+      "page_num": 19,
+      "word_count": 212
+    },
+    {
+      "text": "124,\nBesides\nrotating,\nthe\nshaft\nmay\ntend\nto\nmove\nin\ntwo\nother\nways.\nROTATION\nAXIAL\nMOVEMENT\n(TURNING)\n(THRUST)\n125.\n126.\n127.\n128.\n129.\n130.\nIn\nmost\npumps,\nmore\nof\nthe\narea\nof\nthe\nimpeller\nis\nexposed\nto\ndischarge\npressure\nthan\nto\nsuction\npressure.\nThis\nunbalanced\npressure\ncauses\n8-_-\nto\nbe\nexerted\nin\nan\naxial\ndirection.\nMovement\ncan\nalso\noccur\nif\nthe\npump\nhas\na\nlong,\nun-\nsupported\nshaft,\nor\nif\nthe\nimpeller\nis\nout\nof\nbalance.\nThis\nis\n(axial/radial)\nmovement.\nBoth\nradial\nand\naxial\nmovement\nmust\nbe\nif\nthe\nimpeller\nis\nto\nremain\nin\nposition.\nBearings\nsupport\nthe\nshaft\nand\nallow\nit\nto\nrotate\nwith\nvery\nlittle\nfriction.\nBearings\nalso\ncontrol\n_________\nand\nmovement\nof\nthe\nshaft.\nThe\nbearing\nlubricant\nprovides\na\nfluid\nfilm\nbetween\nthe\nrotating\nshaft\nand\nthe\nbearing.\nThis\nfluid\nfilm\nprevents\nthe\nshaft\nand\nits\nstationary\nsup-\nports\nfrom\n________._\nagainst\neach\nother.\nA\nradial\n(journal)\nbearing\non\nwhich\nthe\nshaft\nrests\ncontrols\n________s\nmovements.\nA\nthrust\nbearing\nlimits\nend-to-end\nmovement\nof\nthe\nshaft.\nA\nthrust\nbearing\nlimits\nthe\namount\nof\n(axial/radial)\nmovement.\n50\nforce\nradial\ncontrolled,\nor\nminimized\naxial;\nradial\nrubbing\nradial\naxial",
+      "confidence": 93.47340425531915,
+      "language": "eng+hin",
+      "page_num": 20,
+      "word_count": 188
+    },
+    {
+      "text": "181.\n182.\n188.\n134.\n135.\n136.\nSome\npumps\nuse\nball\nbearings\nto\ncontrol\nboth\nradial\nand\nthrust\nmovement.\nRADIAL\nBALL\nBEARING\n——\nBALL\nBEARING\nThe\nshaft\nof\nthis\npump\nis\nsupported\nby\nboth\nse\nand\n_______\nball\nbearings.\nBall\nbearings\nare\nlubricated\nso\nthat\nthere\nis\nalmost\nno\n_____________\nbetween\nthe\nball\nand\nany\nof\nthe\nother\nparts\nit\ntouches.\nThe\nball\nbearings_____-—~—~———s\nfreely\nas\nthe\nshaft\nrotates.\nBall\nbearings\nmay\nbe\ngrease-\nor\noil-lubricated.\nWhere\nthe\nload\non\nthe\nbearing\nis\ngreat\nand\nconsiderable\nheat\nis\ngenerated,\noil\nis\nused\nas\nthe\nlubricant\nbecause\nit\nalso__....\nthe\nshaft\nand\nbearing.\nGrease-packed\nbearings\ncan\nbe\novergreased.\nOvergreasing\ncauses\nthe\nbearing\nto\nSlinger\nrings\nare\nalso\nused\nto\nmove\nlubricating\noil\nfrom\nthe\nreservoir\nto\nthe\nbearing.\nBEARING\nOIL\nRESERVOIR\nA\nslinger\nring\nfixed\nto\nthe\nshaft\nand\nrotating\nwith\nit\nthrows\noil\nfrom\nthe\nreservoir\nonto\nthe\ni\n51\nthrust\nradial\nwear,\nor\nfriction\nturn\ncools\noverheat\nbearing",
+      "confidence": 91.10759493670886,
+      "language": "eng+hin",
+      "page_num": 21,
+      "word_count": 158
+    },
+    {
+      "text": "187.\nLarge\npumps\nuse\nheavy-duty\nsleeve\nbearings\ninstead\nof\nball\nbearings.\n;\nBABBITT\nBEARING\nBEARING\nBRACKET\nA\nsleeve\nbearing\nhas\n(more/less)\nsurface\narea\nthan\na\nmore\nball\nbearing\ndoes.\n138.\nA\nsleeve\nbearing\ncan\nsupport\na\nvery\n—\n—_-___\nheavy,\nor\nlarge\nshaft.\n139.\nSleeve\nbearings\ncontrol\n(radial/axial)\nmovement.\nradial\n140.\nThe\nbearing\nis\nmade\nof\nlow-friction\nmetal\n(babbitt)\nand\nis\nlubricated\nby\na\nfilm\nof\n_—_______.\noil\n141.\nThe\noil\nis\nsupplied\nto\nthe\nbearing\nunder\npressure\nthrough\ngrooves\non\nthe\nbearing\nsurface.\nThe\nhigh-pressure\noil\ninsures\nthat\nthe\nshaft\n(can/can-\nnot)\nsqueeze\nthe\nfilm\nof\noil\nout\nof\nthe\nbearing\nunder\ncannot\nheavy\nload.\n142.\nThe\nshaft\nrotates\non\na\nfilm\nof\n______,\nand\nthere\nis\nno\noil\ndirect\ncontact\nbetween\nthe\nshaft\nand\nbearing.\n148.\nOil\ncan\nbe\nsupplied\nto\na\nsleeve\nbearing\neither\nby_an\noil\nring\nor\nunder\npressure\nby\na\nlube-oil\npump.\nSLEEVE\nBEARING\nSHAFT\nOIL\nRING\nOIL\nRESERVOIR\nThe\noil\nring\npicks\nup\noil\nfrom\na\n____________\nbelow\nreservoir\nthe\nshaft.\n52",
+      "confidence": 91.94642857142857,
+      "language": "eng+hin",
+      "page_num": 22,
+      "word_count": 168
+    },
+    {
+      "text": "144.\n145.\n146.\n147.\nPUMP\nBEARING\nBRACKET\n148.\n149,\n150.\n151.\nThe\nring\nrotating\non\nthe\n______\npicks\nup\noil\nfrom\nthe\nreservoir\nand\ncarries\nit\nup\nto\nthe\nbearing.\nIn\na\npressurized\noil\nsystem,\noil\nis\npumped\nto\neach\nLube-oil\npumps\nare\nused\nwhen\nthe\nload\non\nthe\nbearings\nis\ngreat.\nWhere\npossible,\nthe\npressure\nlube-oil\nsystem\nshould\nbe\nworking\nbefore\nthe\npump\nis\nstarted\nso\nthat\nthere\nis\nan\noil\nfilm\nbetween\nthe\nshaft\nand\nthe\nPumps\nwith\na\nlarge\naxial\nload\nuse\na\nbabbitt-faced\n(anti-\nfriction)\nthrust\nbearing.\nTHRUST\nSHOE\nRETAINER\nBABBITT-FACED\nTHRUST\nSHOE\nTHRUST\nCOLLAR\nThe\nthrust\ncollar\nrotates\nas\npart\nof\nthe\n_______.\nThe\nstationary\nthrust\nshoes\nrestrict\naxial\nmovement\nof\nthe\nshaft.\nThe\nshoes\nare\npivoted\nto\nabsorb\nminor\nvariations\nin\nthe\nrotation\nof\nthe\nthrust\nOil\nmay\nbe\npumped\nto\nthe\nbearing,\nor\nthe\nbearing\nmay\nrun\nin\noil\nto\nmaintain\na\nlubricating\n____.\n___\nbet\nween\nthe\nsurfaces.\nThe\ntemperature\nof\nthe\nlubricating\noil\nmust\nbe\nmain-\ntained\nwithin\nthe\noperating\nrange.\nIf\nthe\ntemperature\nrises\ntoo\nhigh,\nbearings\nmay\nand\nfail.\nMany\npump\ncouplings\nare\nlubricated\nwith\nheavy\noil\nor\ngrease.\nBefore\nthe\npump\nis\nstarted\nand\nduring\noperation,\nthe\ncouplings\nshould\nbe\nchecked\nfor\nlubrication\nand\n53\nshaft\nbearing\nbearing\nshaft\ncollar\nfilm\noverheat\nleakage",
+      "confidence": 93.64186046511628,
+      "language": "eng+hin",
+      "page_num": 23,
+      "word_count": 215
+    },
+    {
+      "text": "152.\n158.\nThe\noperating\nmanual\nor\nthe\nsupervisor\nspecifies\nthe\n—_________\nand\namount\nof\noil\nto\nbe\nused\nfor\nlubricating\nthe\ncoupling.\nOil\nmust\nbe\nfree\nof\ndirt\nand\nwater.\nWater\nbreaks\ndown\nthe\nfilm\nbetween\nthe\nshaft\nand\nbearing,\nand____——_—\nis\nabrasive.\nPUMP\nCOOLING\n154.\n155.\n156.\n157.\n158.\nPumps\nperforming\nheavy-duty\nservice\nand\npumps\nmoving\nhot\nliquids\nmay\nbe\nwater-jacketed.\nPump\nparts\nsubjected\nto_________\ntemperatures\nare\nsurrounded\nwith\nwater\njackets.\nWater\nis\ncirculated\nto\ncool\nthe\nlubricating\noil,\npacking,\nand\nother\nparts\nwhere__________\ntemperatures\nmay\ndevelop.\nFriction\nbetween\nthe\nshaft\nand\npacking\ncreates\nheat.\nSometimes\nthe\nheat\ngenerated\nin\nthe\npacking\nbox\narea\nis\ntoo\ngreat\nto\nbe\ncarried\naway\nby\nthe\nor\nthe\nlubricant.\nTo\nkeep\nthe\nshaft\nand\npacking\nfrom\noverheating,\nthey\nare\nfitted\nwith\noS\nSaaS\nLook\nat\nthe\ndrawing.\nCASING\nWATER\nJACKET\nSHAFT\nSLEEVE\nThe\ncooling\nwater\ncirculates\nin\nthe\n_\n/\nsurrounding\nthe\npacking\nbox.\n54\ngrade\ndirt\nhigh\nhigh\nair\nwater\njackets\nwater\njacket",
+      "confidence": 90.82716049382717,
+      "language": "eng+hin",
+      "page_num": 24,
+      "word_count": 162
+    },
+    {
+      "text": "159.\n160.\n161.\n162.\nWhen\nthe\nbearing\nlubricant\nmust\nbe\ncooled,\nthe\nbear-\ning\nand\nreservoirs\nmay\nbe\nsurrounded\nwith\nWhere\nthe\nheat\ngenerated\nis\ntoo\ngreat\nto\nbe\ncarried\naway\nby\nwater-jacketed\nreservoirs,\nthe\nlube\noil\nis\npumped\nthrough\na\nshell-and-tube\ncooler\nand\nthen\nto\nthe\nIf\nnot\nmuch\nheat\nis\ngenerated\nby\nthe\npump,\nheat\nis\nlost\ndirectly\nto\nthe\n__________\nthrough\nthe\nreservoir\nhousing.\nHigh\ntemperature\npumps\nusually\nhave\nwater-jacketed\nbases\n(pedestals).\nThe\nmore\nheat\nthe\npump\nhas\nto\nhandle,\nthe\nmore\nthoroughly\nit\nis\n___--\n55\nwater\njackets\nbearings\nair,\nor\natmosphere\nwater-jacketed",
+      "confidence": 93.15463917525773,
+      "language": "eng+hin",
+      "page_num": 25,
+      "word_count": 97
+    },
+    {
+      "text": "",
+      "confidence": 0,
+      "language": "eng+hin",
+      "page_num": 26,
+      "word_count": 0
+    }
+  ],
+  "total_pages": 26
+}

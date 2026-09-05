@@ -13,7 +13,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:46.021279",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/C1-331 NITROGEN COMPRESSOR.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/C1-331 NITROGEN COMPRESSOR.pdf",
+    "page_profile": {
+      "scanned": 1
+    }
   },
   "9f90f769ca0b986fcaa0e30900338220c73bc9693a50da64a27dc65ee101d413": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/COMPRESSOR-DOCS/Centifugal Compressors.doc",
@@ -22,7 +25,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:46.081401",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Centifugal Compressors.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Centifugal Compressors.pdf",
+    "page_profile": {
+      "scanned": 82
+    }
   },
   "0d8e7ce66b1632c7f69f0675cf837984b2534096b178d866e09a52c2e5c2858c": {
     "path": "/mnt/inam/RAG_SYSTEM/RAG_SYSTEM/data/raw/Process Study/New folder/Centrifugal Compressor .pdf",
@@ -45,7 +51,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:46.107392",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Internal Combustion, Unit 1.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Internal Combustion, Unit 1.pdf",
+    "page_profile": {
+      "scanned": 25
+    }
   },
   "df046020d793a3896367a75d5454af3289ce0ab22847541368dd825a5eb8e845": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/COMPRESSOR-DOCS/Internal Combustion, Unit 2.doc",
@@ -54,7 +63,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:46.112939",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Internal Combustion, Unit 2.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Internal Combustion, Unit 2.pdf",
+    "page_profile": {
+      "scanned": 23
+    }
   },
   "36f3070f66f753fb3b8a42ea070ea6460a74c118b1c4960184f9025e2f470e81": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/COMPRESSOR-DOCS/Internal Combustion, Unit 3.doc",
@@ -63,7 +75,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:46.117245",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Internal Combustion, Unit 3.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Internal Combustion, Unit 3.pdf",
+    "page_profile": {
+      "scanned": 20
+    }
   },
   "8d6e5f37a136bf9d9b49d1ee6e0ab9e263091e658dff7b212aba526f555f5501": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/COMPRESSOR-DOCS/Internal Combustion, Unit 4.doc",
@@ -76,7 +91,9 @@
     "page_profile": {
       "scanned": 12
     },
-    "page_count": 12
+    "page_count": 12,
+    "ocr_status": "done",
+    "ocr_output": "/mnt/inam/RAG_SYSTEM/data/ocr_output/8d6e5f37a136bf9d9b49d1ee6e0ab9e263091e658dff7b212aba526f555f5501_ocr.json"
   },
   "1087027d1bea5b0dd8ad689561c05812b6100b755642d2a846b9d998cbef8c20": {
     "path": "/mnt/inam/RAG_SYSTEM/RAG_SYSTEM/data/raw/COMPRESSOR-DOCS/Lubricating and Compressor Oils.pdf",
@@ -155,7 +172,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:46.321381",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Distillation, Unit 1.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Distillation, Unit 1.pdf",
+    "page_profile": {
+      "scanned": 36
+    }
   },
   "5782d99b1a2e8caad433e0418b31df13240782eabfb4172819387a66de47a186": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/DISTILATION/Distillation, Unit 2.doc",
@@ -168,7 +188,9 @@
     "page_profile": {
       "scanned": 18
     },
-    "page_count": 18
+    "page_count": 18,
+    "ocr_status": "done",
+    "ocr_output": "/mnt/inam/RAG_SYSTEM/data/ocr_output/5782d99b1a2e8caad433e0418b31df13240782eabfb4172819387a66de47a186_ocr.json"
   },
   "d0144060b5e73331def2211e160b076424eb489896bbaaf598acc8120f594473": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/DISTILATION/Distillation, Unit 3.doc",
@@ -177,7 +199,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:47.924186",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Distillation, Unit 3.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Distillation, Unit 3.pdf",
+    "page_profile": {
+      "scanned": 31
+    }
   },
   "6999f6ea24ca703dfb61b4eab2742cdf059ba7c676cfedc70d6bea8fa5fb4024": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/DISTILATION/Distillation, Unit 4.doc",
@@ -190,7 +215,9 @@
     "page_profile": {
       "scanned": 11
     },
-    "page_count": 11
+    "page_count": 11,
+    "ocr_status": "done",
+    "ocr_output": "/mnt/inam/RAG_SYSTEM/data/ocr_output/6999f6ea24ca703dfb61b4eab2742cdf059ba7c676cfedc70d6bea8fa5fb4024_ocr.json"
   },
   "d3f7096460ea758770e8538b1d3eb697e2f66e0ad953c5ff202430f319a68e0a": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/DISTILATION/Distillation, Unit 5.doc",
@@ -199,7 +226,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:47.948054",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Distillation, Unit 5.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Distillation, Unit 5.pdf",
+    "page_profile": {
+      "scanned": 16
+    }
   },
   "2cbd8033f02f672114c5b311832a0ec61bc158f56225dbc132b74e847f9fc644": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/DISTILATION/Distillation, Unit 6.doc",
@@ -208,7 +238,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:47.959550",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Distillation, Unit 6.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Distillation, Unit 6.pdf",
+    "page_profile": {
+      "scanned": 13
+    }
   },
   "de8e227573dcce1d8be9880a882e94ab62425549aa3441ee25950604533ba669": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/DISTILATION/Distillation, Unit 7.doc",
@@ -217,7 +250,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:47.982710",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Distillation, Unit 7.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Distillation, Unit 7.pdf",
+    "page_profile": {
+      "scanned": 22
+    }
   },
   "3e6426c2fb83b2ef57618baae52004575f163c331c112a7ed4f22a95b5875af9": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/DISTILATION/Distillation, Unit 8.doc",
@@ -230,7 +266,9 @@
     "page_profile": {
       "scanned": 11
     },
-    "page_count": 11
+    "page_count": 11,
+    "ocr_status": "done",
+    "ocr_output": "/mnt/inam/RAG_SYSTEM/data/ocr_output/3e6426c2fb83b2ef57618baae52004575f163c331c112a7ed4f22a95b5875af9_ocr.json"
   },
   "83e861031834c1c19d062dfacb993854d12fe4ec1b9b7f5d7543a23769529383": {
     "path": "/mnt/inam/RAG_SYSTEM/RAG_SYSTEM/data/raw/Process Study/Flow Metering_ Techniques, Devices & Industrial Practices.pdf",
@@ -267,7 +305,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:46.462894",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Controllers & Control Mode, Unit 1.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Controllers & Control Mode, Unit 1.pdf",
+    "page_profile": {
+      "scanned": 29
+    }
   },
   "3a9b971f88662450701448ae4a847944a143d4f56d28afe640d0bc7f3a244b5a": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Instrumentation/Controllers & Control Mode, Unit 2.doc",
@@ -276,7 +317,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.005982",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Controllers & Control Mode, Unit 2.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Controllers & Control Mode, Unit 2.pdf",
+    "page_profile": {
+      "scanned": 27
+    }
   },
   "079527afe376af11d278ab7d6497e3ab40c8d283af68e8c57a4eb74c0629e9f5": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Instrumentation/Controllers & Control Mode, Unit 3.doc",
@@ -285,7 +329,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.009626",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Controllers & Control Mode, Unit 3.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Controllers & Control Mode, Unit 3.pdf",
+    "page_profile": {
+      "scanned": 15
+    }
   },
   "4ee1097f598ba9c0c4e50515b5def19fe149807a5696d5438fa08bf45acf62bd": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Instrumentation/Gas Measurement, Unit 1.doc",
@@ -294,7 +341,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.031981",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Gas Measurement, Unit 1.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Gas Measurement, Unit 1.pdf",
+    "page_profile": {
+      "scanned": 25
+    }
   },
   "c9ee2bd0c89ccf61e80143c7d12a3b1e356056b8e63eb92cd3c83a2f8f677b4b": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Instrumentation/Gas Measurement, Unit 2.doc",
@@ -303,7 +353,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.093922",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Gas Measurement, Unit 2.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Gas Measurement, Unit 2.pdf",
+    "page_profile": {
+      "scanned": 67
+    }
   },
   "c098e8881121cf1d5b255cbb0e7427721e7075ecdf40a0c95206cb6a98879737": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Instrumentation/Measuring Instruments, Unit 1.doc",
@@ -312,7 +365,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.103389",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Measuring Instruments, Unit 1.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Measuring Instruments, Unit 1.pdf",
+    "page_profile": {
+      "scanned": 46
+    }
   },
   "d6ae149b15076579a0d08cd948d116fa9586afda37c9a530c13a567ee7ca17c1": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Instrumentation/Measuring Instruments, Unit 2.doc",
@@ -321,7 +377,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.110435",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Measuring Instruments, Unit 2.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Measuring Instruments, Unit 2.pdf",
+    "page_profile": {
+      "scanned": 30
+    }
   },
   "f4e712f5edc40d8da6bdeb3fc6110e9bc07ea49b085cc5d7852812abd694c62b": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Instrumentation/Measuring Instruments, Unit 3.doc",
@@ -330,7 +389,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.118644",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Measuring Instruments, Unit 3.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Measuring Instruments, Unit 3.pdf",
+    "page_profile": {
+      "scanned": 36
+    }
   },
   "41d5e4800cc486669f1e4da60abd82d584ded458eb6d45cf688f18a1001db71a": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Instrumentation/Measuring Instruments, Unit 4.doc",
@@ -339,7 +401,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.125351",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Measuring Instruments, Unit 4.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Measuring Instruments, Unit 4.pdf",
+    "page_profile": {
+      "scanned": 30
+    }
   },
   "915a3bb6bc46b8390494f3e99f1154e430727db31a8384fcb8e723f8b126d14a": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Instrumentation/Measuring Instruments, Unit 5.doc",
@@ -348,7 +413,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.129486",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Measuring Instruments, Unit 5.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Measuring Instruments, Unit 5.pdf",
+    "page_profile": {
+      "scanned": 16
+    }
   },
   "d076fe18b4f32adf72f452d170f14b1f6f720e4758f15c04b60533e70f4dec06": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Instrumentation/Pressure & Temperature, Unit 1.doc",
@@ -357,7 +425,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.161354",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Pressure & Temperature, Unit 1.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Pressure & Temperature, Unit 1.pdf",
+    "page_profile": {
+      "scanned": 47
+    }
   },
   "8ceca7680177ec2072267ecb32c6de6aacc06217cab0236a5d2e88ea7ff55f3a": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Instrumentation/Pressure & Temperature, Unit 2.doc",
@@ -366,7 +437,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.182368",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Pressure & Temperature, Unit 2.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Pressure & Temperature, Unit 2.pdf",
+    "page_profile": {
+      "scanned": 28
+    }
   },
   "55937dcb12a8ae9e00cb2944d7db8600358f11be7b6d7fbba88cd4663f195ab9": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Instrumentation/Process Control Instruments, Unit 1.doc",
@@ -375,7 +449,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.188524",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Process Control Instruments, Unit 1.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Process Control Instruments, Unit 1.pdf",
+    "page_profile": {
+      "scanned": 35
+    }
   },
   "b43ef08a07cbbc660c0c8274c2de46fae262c4567d4d7e3fbf7fd62ba82d3a59": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Instrumentation/Process Control Instruments, Unit 2.doc",
@@ -384,7 +461,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.194440",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Process Control Instruments, Unit 2.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Process Control Instruments, Unit 2.pdf",
+    "page_profile": {
+      "scanned": 32
+    }
   },
   "b4a30886f86a2c992dabc36801b7208b558741ffde703da77d2cb4601bdc3582": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Instrumentation/Process Control Instruments, Unit 3.doc",
@@ -393,7 +473,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.200023",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Process Control Instruments, Unit 3.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Process Control Instruments, Unit 3.pdf",
+    "page_profile": {
+      "scanned": 31
+    }
   },
   "8646fccd57c4b5421cf365a5517d9be5cbf35f1571d9931572d4fcd0e9d97724": {
     "path": "/mnt/inam/RAG_SYSTEM/RAG_SYSTEM/data/raw/Process Study/New folder/Instrumentation .pdf",
@@ -780,7 +863,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.789370",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Centifugal Pumps, Unit 1.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Centifugal Pumps, Unit 1.pdf",
+    "page_profile": {
+      "scanned": 36
+    }
   },
   "3b05d7ae4211335d373af1284fea23fcb80590d301adbe110b4bbb1d9bcc06ef": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/sru/Centifugal Pumps, Unit 2.doc",
@@ -793,7 +879,9 @@
     "page_profile": {
       "scanned": 26
     },
-    "page_count": 26
+    "page_count": 26,
+    "ocr_status": "done",
+    "ocr_output": "/mnt/inam/RAG_SYSTEM/data/ocr_output/3b05d7ae4211335d373af1284fea23fcb80590d301adbe110b4bbb1d9bcc06ef_ocr.json"
   },
   "610fd235e37fa26b135f39a83aef0586d6f38b4f0baed8bfc008335a36d70f14": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/sru/Centifugal Pumps, Unit 3.doc",
@@ -802,7 +890,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:49.582364",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Centifugal Pumps, Unit 3.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Centifugal Pumps, Unit 3.pdf",
+    "page_profile": {
+      "scanned": 11
+    }
   },
   "8996b6a4779d6edf66291aca86763334df375e3525df2b6e8d02784dc8882322": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Pumps/Centrifugal Pumps.doc",
@@ -811,7 +902,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.876498",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Centrifugal Pumps.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Centrifugal Pumps.pdf",
+    "page_profile": {
+      "scanned": 54
+    }
   },
   "3f0491c9f68c51621526eb3fee5e9c30723247515e77ccda679ea4dca75d09af": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Pumps/Couplings, Unit 1.doc",
@@ -820,7 +914,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.882267",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Couplings, Unit 1.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Couplings, Unit 1.pdf",
+    "page_profile": {
+      "scanned": 30
+    }
   },
   "3e923d96a2774d04c356e9a64eac73effbdc244a4a2b3013e5fcea9dc9af1b13": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Pumps/Couplings, Unit 2.doc",
@@ -829,7 +926,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.889789",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Couplings, Unit 2.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Couplings, Unit 2.pdf",
+    "page_profile": {
+      "scanned": 35
+    }
   },
   "4ae916f4a7b4f87d658076759e1edf06cddb9d63be9aea502f779c9862689659": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Pumps/Couplings, Unit 3.doc",
@@ -838,7 +938,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.894474",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Couplings, Unit 3.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Couplings, Unit 3.pdf",
+    "page_profile": {
+      "scanned": 21
+    }
   },
   "14bb6ccab9c34162b367412f86729b100c610668f82936557b46407437ee60a1": {
     "path": "/mnt/inam/RAG_SYSTEM/RAG_SYSTEM/data/raw/Process Study/RCMS/Classification of Hazardous Areas(19.06-01)/AQ-19.06-01-Classification of Hazardous Areas.xlsx",
@@ -1198,7 +1301,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:47.884200",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Distillation, Unit 1.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Distillation, Unit 1.pdf",
+    "page_profile": {
+      "scanned": 36
+    }
   },
   "f7f7362b7dcc4738143a44ec1455514c0f84f2721e509be3792641fe0a847955": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/DISTILATION/Distillation, Unit 2.doc",
@@ -1207,7 +1313,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:47.898841",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Distillation, Unit 2.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Distillation, Unit 2.pdf",
+    "page_profile": {
+      "scanned": 18
+    }
   },
   "9a5f9ab00c49cd99463c5ce4d9fcf5f40a965f1bf63ad05362b8cb08550907dc": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Instrumentation/Controllers & Control Mode, Unit 1.doc",
@@ -1216,7 +1325,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:47.999594",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Controllers & Control Mode, Unit 1.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Controllers & Control Mode, Unit 1.pdf",
+    "page_profile": {
+      "scanned": 29
+    }
   },
   "d4d04a945474bb576a46cf60be7f4336a5c8c0c17097b73743172caa0571cd3e": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Plant Knowledge/Behavoiur Of Hydrocarbons.doc",
@@ -1225,7 +1337,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.253432",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Behavoiur Of Hydrocarbons.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Behavoiur Of Hydrocarbons.pdf",
+    "page_profile": {
+      "scanned": 53
+    }
   },
   "e98af353cb5067e566e85df01f68ebf647b05e0a40525ea883034f90030972bc": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Plant Knowledge/Fluid Mechanic, Unit 1.doc",
@@ -1234,7 +1349,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.317459",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Fluid Mechanic, Unit 1.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Fluid Mechanic, Unit 1.pdf",
+    "page_profile": {
+      "scanned": 90
+    }
   },
   "4e5ba5340847afad1f1c2fc6593bec091abf3da0e789022cf52247e7451d70bb": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Plant Knowledge/Fluid Mechanics, Unit 2.doc",
@@ -1243,7 +1361,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.356097",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Fluid Mechanics, Unit 2.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Fluid Mechanics, Unit 2.pdf",
+    "page_profile": {
+      "scanned": 47
+    }
   },
   "9daaa8d8cf0c14f0c5f10a0fa2c4bd2059935ab31246bd2c49f5f1c4b5103c3b": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Plant Knowledge/Fluid Mechanics, Unit 3.doc",
@@ -1252,7 +1373,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.400632",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Fluid Mechanics, Unit 3.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Fluid Mechanics, Unit 3.pdf",
+    "page_profile": {
+      "scanned": 62
+    }
   },
   "f8cc649bcdb1b168d5d07d340b48f4c00e1de5265de64e2d699c782b4d565a05": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Plant Knowledge/Fluid Mechanics, Unit 4.doc",
@@ -1261,7 +1385,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.439457",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Fluid Mechanics, Unit 4.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Fluid Mechanics, Unit 4.pdf",
+    "page_profile": {
+      "scanned": 55
+    }
   },
   "2e8079aa3456e612bdf73759eaf199cfcedc927e10c858859ab5cb9494729135": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Plant Knowledge/Heat Exchanger Types.doc",
@@ -1270,7 +1397,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.452004",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Heat Exchanger Types.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Heat Exchanger Types.pdf",
+    "page_profile": {
+      "scanned": 11
+    }
   },
   "cd2f994a5381927b3335345af06023b68687ad1bd4ee11776f483638fcf252ed": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Plant Knowledge/Heat Exchangers, Unit 1.doc",
@@ -1279,7 +1409,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.507862",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Heat Exchangers, Unit 1.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Heat Exchangers, Unit 1.pdf",
+    "page_profile": {
+      "scanned": 64
+    }
   },
   "4562bafd48b690c20a8cd2c624fa60b0dc2d5f1af23eec83fb4c44f35e8c8901": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Plant Knowledge/Heat Exchangers.doc",
@@ -1288,7 +1421,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.571813",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Heat Exchangers.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Heat Exchangers.pdf",
+    "page_profile": {
+      "scanned": 66
+    }
   },
   "9043c3d53ac94cba16b221f3b7b824917dcf04d578c03b6691d6ace65cb94056": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Plant Knowledge/Heat, Unit 1.doc",
@@ -1297,7 +1433,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.614334",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Heat, Unit 1.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Heat, Unit 1.pdf",
+    "page_profile": {
+      "scanned": 49
+    }
   },
   "8ff3c26bec897001527a0b01e6a3aae62119c64cd8593abab94ef11ac690d873": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Plant Knowledge/Heat, Unit 2.doc",
@@ -1306,7 +1445,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.644328",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Heat, Unit 2.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Heat, Unit 2.pdf",
+    "page_profile": {
+      "scanned": 40
+    }
   },
   "74c7cd46639fdaa8d4104e87c68bdaba8b721353e00af5c53ccf80ed9a31f113": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Plant Knowledge/Heat, Unit 3.doc",
@@ -1319,7 +1461,9 @@
     "page_profile": {
       "scanned": 34
     },
-    "page_count": 34
+    "page_count": 34,
+    "ocr_status": "done",
+    "ocr_output": "/mnt/inam/RAG_SYSTEM/data/ocr_output/74c7cd46639fdaa8d4104e87c68bdaba8b721353e00af5c53ccf80ed9a31f113_ocr.json"
   },
   "283e2652a0c94c43c2b55c227ec4f174a80107e2d40a3a60f49946a738533e96": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Plant Knowledge/Hydrate Inhibition.doc",
@@ -1328,7 +1472,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.726754",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Hydrate Inhibition.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Hydrate Inhibition.pdf",
+    "page_profile": {
+      "scanned": 47
+    }
   },
   "f877a9e698d29ebda9686180a75dd7937556a72cbf276e539ed3be167fe3ce5d": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Plant Knowledge/Plant Valves.doc",
@@ -1337,7 +1484,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.762710",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Plant Valves.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Plant Valves.pdf",
+    "page_profile": {
+      "scanned": 49
+    }
   },
   "0d6c46c9c84e070338eb77f3c2590c2d789419496aa5341378948ace3e54e523": {
     "path": "/mnt/inam/RAG_SYSTEM/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/distillation/distillation/Design_of_Distillation_Column_Control_Systems.pdf",
@@ -1385,7 +1535,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:48.963937",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/visit our sponsor.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/visit our sponsor.pdf",
+    "page_profile": {
+      "scanned": 1
+    }
   },
   "ca4b6551904c4778c92d89f49579b1fabd2139387cac85e8d3af667bbbbf90f6": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/RCM important/ALL RCMS/RCMS 19.13-03-Work on or Adacent to Unfenced Machinery-May06(Final Issued-26Nov06).doc",
@@ -1824,7 +1977,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:49.440605",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Plant Valves.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Plant Valves.pdf",
+    "page_profile": {
+      "scanned": 49
+    }
   },
   "01979f431b277df187b3a27eb7ae30213bc8285df81f5c1dcf81a942f5618522": {
     "path": "/mnt/inam/RAG_SYSTEM/RAG_SYSTEM/data/raw/Rovac A-B/Solvent Recovery Module 8.docx",
@@ -1881,7 +2037,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:49.458796",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/M1-1603 Caustic Soaking Procedure update.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/M1-1603 Caustic Soaking Procedure update.pdf",
+    "page_profile": {
+      "scanned": 1
+    }
   },
   "e314882956ce066ec63d307d9fc6ad5a7cbd6f78bdb4bb482e61320cfe833c1d": {
     "path": "/mnt/inam/RAG_SYSTEM/RAG_SYSTEM/data/raw/SRU_sec/PDF/10-00851.pdf",
@@ -2125,7 +2284,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:49.502153",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/6 FILTERATION.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/6 FILTERATION.pdf",
+    "page_profile": {
+      "scanned": 1
+    }
   },
   "1f18d80543fefb21658c4daf89c811cf3fa164db3c7b9a01ebbb5a2b47567135": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Sru and filtration area validation paper/8 Solvent Recovery Area.doc",
@@ -2188,7 +2350,10 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:49.510033",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/SOLV-2.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/SOLV-2.pdf",
+    "page_profile": {
+      "scanned": 1
+    }
   },
   "86a684eff948d016cac153744739b1f7049c54805dc8d08151493f3c394a63ed": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Sru and filtration area validation paper/SOLV-3.doc",
