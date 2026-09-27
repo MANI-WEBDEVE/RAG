@@ -929,7 +929,8 @@
     "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Couplings, Unit 2.pdf",
     "page_profile": {
       "scanned": 35
-    }
+    },
+    "page_count": 35
   },
   "4ae916f4a7b4f87d658076759e1edf06cddb9d63be9aea502f779c9862689659": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Pumps/Couplings, Unit 3.doc",
@@ -1475,7 +1476,8 @@
     "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Hydrate Inhibition.pdf",
     "page_profile": {
       "scanned": 47
-    }
+    },
+    "page_count": 47
   },
   "f877a9e698d29ebda9686180a75dd7937556a72cbf276e539ed3be167fe3ce5d": {
     "path": "/mnt/inam/RAG_SYSTEM/data/raw/Process Study/RCMS/W APIs/Plant Knowledge/Plant Valves.doc",
@@ -2533,7 +2535,14 @@
     "status": "pending",
     "triaged_at": "2026-09-03T23:44:49.632537",
     "convert_status": "done",
-    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Ch-07 pumps.pdf"
+    "converted_pdf": "/mnt/inam/RAG_SYSTEM/data/converted/pdf/Ch-07 pumps.pdf",
+    "page_profile": {
+      "text_with_tables": 1,
+      "table_heavy": 2,
+      "text_structured": 21,
+      "slide_style": 1
+    },
+    "page_count": 25
   },
   "5344f500ca8759b17631adeac160cdce137b4ed4ce6cf43a724fb66e00b60c8a": {
     "path": "/mnt/inam/RAG_SYSTEM/RAG_SYSTEM/data/raw/sru/D1-601 + D1-610 + D1-609.pdf",
